@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Linux, Cyber Security and tools.
 - 🌱 I’m currently learning Cyber security and Networks.
 - 💞️ I’m looking to collaborate on cyber security tools.
-- 📫 How to reach me at zackhary72@gmail.com
+- 📫 reach me at zackhary72@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love drinking Coffee and going on walks.
 
