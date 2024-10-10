@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zack2k2
+- 👋 Hi, I’m Zohaib Zafar
 - 👀 I’m interested in Programming, Linux, Cyber Security and tools.
 - 🌱 I’m currently learning Cyber security and Networks.
 - 💞️ I’m looking to collaborate on cyber security tools.
